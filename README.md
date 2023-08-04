@@ -1,3 +1,3 @@
 Thi is the website for bbt project
 
-the demo screen is -> https://appie.quomodosoft.com/home-three
+the demo screen is -> https://bbt.github.io/index.html
